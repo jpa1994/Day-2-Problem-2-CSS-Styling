@@ -4,7 +4,7 @@ body {
     background-size: cover;
 }
 .gradient {
-    background: linear-gradient(to bottom right, #00ffc8a6, #00ff9da6);
+    background: linear-gradient(to bottom right, #00ffc8bb, #00ff48cf);
     width: 250px;
     height: 150px;
 }
