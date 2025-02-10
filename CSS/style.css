@@ -1,0 +1,10 @@
+body {
+    background-image: url(../Image/guaira-falls.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gradient {
+    background: linear-gradient(to bottom right, #00ffc8a6, #00ff9da6);
+    width: 250px;
+    height: 150px;
+}
